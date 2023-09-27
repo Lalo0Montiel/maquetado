@@ -1,0 +1,5 @@
+.myGrid .col {
+    outline: solid blue;
+    display: flex;
+    justify-content: flex-end;
+}
