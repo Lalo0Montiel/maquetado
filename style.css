@@ -32,3 +32,13 @@ header{
   background-size: cover;
   background-position: center;
 }
+
+.tercera{
+  width: 100%;
+  text-align: center;
+  color: white;
+}
+
+.tercera-img{
+  width: 80%;
+}
