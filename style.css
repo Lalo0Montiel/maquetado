@@ -1,0 +1,14 @@
+header{
+  width: 90%;
+  background-color: gray;
+  display: flex;
+}
+.logo {
+  padding: 2px;
+  margin-right: 15px;
+}
+
+.menu{
+  padding: 4px;
+  margin-top: 15px;
+}
